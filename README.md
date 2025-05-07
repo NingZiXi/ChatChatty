@@ -10,8 +10,6 @@
 - Arduino GFX图形显示
 
 详细功能介绍请查看 [项目文档](ChatChatty_AI聊天机器人.docx)。
-## 视频演示
-
 
 ## 许可证
 本项目采用 [GNU General Public License v3.0](LICENSE) 开源协议。
