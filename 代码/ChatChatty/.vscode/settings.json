@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "string": "cpp",
+        "*.tcc": "cpp",
+        "vector": "cpp",
+        "new": "cpp",
+        "fstream": "cpp",
+        "disdain.c": "cpp",
+        "close_eys_quick.c": "cpp",
+        "anger.c": "cpp"
+    },
+    "cmake.sourceDirectory": "D:/ChatChatty/.pio/libdeps/esp32-s3-devkitm-1/ArduinoJson/src"
+}

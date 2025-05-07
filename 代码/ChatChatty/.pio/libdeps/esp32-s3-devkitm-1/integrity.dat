@@ -1,0 +1,8 @@
+bitbank2/AnimatedGIF@^2.1.0
+bblanchon/ArduinoJson@^7.0.4
+lvgl/lvgl@8.4.0
+SPIFFS
+FS.h
+Preferences
+ESPmDNS
+arduino-libraries/NTPClient@^3.2.1
